@@ -1,6 +1,10 @@
 # multi-lang-static-html-generator
 multi-lang-static-html-generator
 
+## needs 
+* python v3.8.10, recommand pyenv 
+* poetry
+ 
 ## install 
 
 1. install poetry: `poetry install`
