@@ -24,7 +24,7 @@ python generate.py --path {your_path} \
 ```
 * example command 
 ```
-python generate.py --path /Users/dojunho/junho/multi-lang-static-sites/test/ko/tmp.html \
+python generate.py --path ~/test/ko/tmp.html \
                    --src_lang ko \
                    --dest_lang en
 ```
