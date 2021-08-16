@@ -2,7 +2,8 @@
 multi-lang-static-html-generator
 
 ## Architecture
-[embed.txt](https://github.com/Junhodo-side/multi-lang-static-html-generator/files/6994350/embed.txt)
+![multi-lang-arch](https://user-images.githubusercontent.com/50814086/129606646-60544e41-dc83-468b-9780-dfb9efc55aa4.png)
+
 ### To Do
 * support triggered by api(webhook)
 * auto push generated file to remote repository
