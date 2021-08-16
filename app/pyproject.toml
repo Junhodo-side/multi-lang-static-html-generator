@@ -7,6 +7,11 @@ authors = ["junhodo <bale.do@buzzvil.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 click = "^8.0.1"
+pylint = "^2.9.6"
+bs4 = "^0.0.1"
+py-googletrans-html = "^2.4.1"
+googletrans = "4.0.0rc1"
+google-cloud-translate = "^3.3.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
