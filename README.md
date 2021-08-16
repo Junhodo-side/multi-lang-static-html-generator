@@ -8,8 +8,8 @@ multi-lang-static-html-generator
 ## install 
 
 1. install poetry: `poetry install`
-2. set env: `PYTHONPATH={now your project root}`
-3. set google translation json key path: `GOOGLE_APPLICATION_CREDENTIALS={path of key}`
+2. set env: `export PYTHONPATH={now your project root}`
+3. set google translation json key path: `export GOOGLE_APPLICATION_CREDENTIALS={path of key}`
 
 
 ## usage
